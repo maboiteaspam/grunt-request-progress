@@ -1,14 +1,19 @@
 {
   "name": "grunt-request-progress",
   "version": "0.0.1",
-  "description": "to write",
-  "main": "index.js",
-  "scripts": {},
+  "description": "Grunt task to download a file with a progress bar.",
+  "files": [
+    "tasks"
+  ],
+  "scripts": {
+
+  },
   "bin": {},
   "keywords": [
-    "To",
-    "be",
-    "done"
+    "grunt",
+    "request",
+    "progress",
+    "download"
   ],
   "author": "maboiteaspam",
   "license": "WTF",
@@ -18,11 +23,5 @@
   },
   "bugs": {
     "url": "https://github.com/maboiteaspam/grunt-request-progress/issues"
-  },
-  "dependencies": {
-    "commander": "^2.8.1"
-  },
-  "devDependencies": {
-    "should": "^7.0.2"
   }
 }
