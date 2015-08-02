@@ -30,6 +30,8 @@ grunt.initConfig({
       options:{
         // here lands request module options
         request: {'proxy':'http://localhost:3213'}, 
+        // if file exists, overwrite ? default is `false`.
+        allowOverwrite: true,
         // self explanatory. i think it supports only GET at that time.
         dst: 'test/fixtures/big_buck_bunny.mp4',
         src: 'http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4'
