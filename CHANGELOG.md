@@ -1,3 +1,9 @@
+:package: patch v0.0.2
+
+```
+Fixed the missing dependencies !
+```
+
 :package: same v0.0.1
 
 ```
