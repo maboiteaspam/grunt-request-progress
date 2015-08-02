@@ -1,0 +1,28 @@
+{
+  "name": "grunt-request-progress",
+  "version": "0.0.1",
+  "description": "to write",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {},
+  "keywords": [
+    "To",
+    "be",
+    "done"
+  ],
+  "author": "maboiteaspam",
+  "license": "WTF",
+  "homepage": "https://github.com/maboiteaspam/grunt-request-progress#readme",
+  "repository": {
+    "url": "https://github.com/maboiteaspam/grunt-request-progress"
+  },
+  "bugs": {
+    "url": "https://github.com/maboiteaspam/grunt-request-progress/issues"
+  },
+  "dependencies": {
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {
+    "should": "^7.0.2"
+  }
+}
