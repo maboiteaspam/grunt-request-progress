@@ -1,3 +1,9 @@
+:package: patch v0.0.3
+
+```
+Fix missing `request` dependency
+```
+
 :package: patch v0.0.2
 
 ```

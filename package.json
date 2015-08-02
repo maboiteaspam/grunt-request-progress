@@ -1,6 +1,6 @@
 {
   "name": "grunt-request-progress",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Grunt task to download a file with a progress bar.",
   "files": [
     "tasks"
